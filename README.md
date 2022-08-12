@@ -1,2 +1,2 @@
 # Easy-Image
-A small app that can turn .xlsx file into PDF graph
+A small app with user-friendly Gui that allow youo to turn .xlsx file into PDF graph
